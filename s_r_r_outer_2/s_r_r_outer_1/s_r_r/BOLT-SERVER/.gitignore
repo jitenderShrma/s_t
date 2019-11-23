@@ -1,0 +1,5 @@
+"sendgrid.env"  source ./sendgrid.env
+node_modules
+Backup/Backup.sh
+package-lock.json
+.eslintrc.json
